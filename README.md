@@ -8,6 +8,7 @@
 
 [![Slack](https://img.shields.io/badge/slack-ods.ai-green)](https://docs.google.com/forms/d/e/1FAIpQLSd5JX9NCguEe4GKHLl01oee-6019VL0hAiNrfBYWAOK0eOZ4w/viewform)
 [![Meetup.com](https://img.shields.io/badge/Meetup.com-blue)](https://www.meetup.com/Dubai-Data-Science-Meetup/events/)
+[![Youtube](https://img.shields.io/badge/Youtube-recordings-orange)](https://www.youtube.com/playlist?list=PLraBn3TuBq-_Dv7hfptCq1IhbTAivy6Gr)
 
 </div>
   
@@ -22,7 +23,7 @@ All lectures will be covered by tutors with the practical experience from Reacto
 3. Decision Trees, 08.04.2020
 4. Logistic Regression, 15.04.2020
 5. Ensembles and Random Forest 22.04.2020
-6. Linear regression and regularization 29.04.2020
+6. Logistic Regression 30.04.2020
 7. Unsupervised Learning: Principal Component Analysis and Clustering 06.04.2020
 8. Time Series Analysis with Python
 9. SGD with Vowpal Wabbit
